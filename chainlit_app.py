@@ -1,7 +1,5 @@
 import chainlit as cl
-
-try:git commit -m "Ajout de l'interface Chainlit : chainlit_app.py"
-
+try:
     from app import rag_chain
 except ImportError:
     rag_chain = None
