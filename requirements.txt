@@ -1,0 +1,9 @@
+langchain==0.1.20
+chromadb==0.4.24
+sentence-transformers==2.7.0
+pillow==10.3.0
+transformers==4.41.2
+torch==2.3.0
+fastapi==0.110.1
+uvicorn==0.29.0
+python-multipart==0.0.9

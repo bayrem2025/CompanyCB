@@ -1,0 +1,11 @@
+tutor_id,tutor_name,specialization,students,subjects_taught
+1,Dr. Smith,Mathematics,"2","Math,Advanced Calculus"
+2,Prof. Johnson,Literature,"1","English,Creative Writing"
+3,Dr. Lee,Science,"3","Physics,Chemistry"
+4,Prof. Brown,History,"4","World History,Geography"
+5,Dr. Davis,Languages,"5","English,French"
+6,Prof. will ,STEM,"6","Math,Computer Science"
+7,Dr. Taylor,Biology,"7","Biology,Genetics"
+8,Prof. Anderson,Arts,"8","Literature,Theater"
+9,Dr. Thomas,Social Sciences,"9","History,Psychology"
+10,Prof. White,Mathematics,"10","Algebra,Geometry"
