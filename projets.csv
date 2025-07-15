@@ -1,0 +1,6 @@
+ID_Projet,Titre_Projet,ID_Etudiant,Technologies
+101,Détection de fraude bancaire,1,"Python, Scikit-learn"
+102,Chatbot IA universitaire,2,"Python, LangChain"
+103,Sécurisation d'une API REST,3,"Python, JWT, FastAPI"
+104,Analyse de sentiment sur Twitter,4,"Python, NLP, Pandas"
+105,Reconnaissance faciale,2,"OpenCV, Python"
